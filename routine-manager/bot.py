@@ -231,7 +231,7 @@ async def routine(ctx):
         last_everyone_found = False
         messages_to_delete = []
         
-        async for message in ctx.channel.history(limit=100):
+        async for message in ctx.channel.history(limit=5):
             # Check if this message has @everyone (previous routine post)
             if "@everyone" in (message.content or ""):
                 last_everyone_found = True
