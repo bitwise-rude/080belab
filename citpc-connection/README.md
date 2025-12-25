@@ -1,5 +1,8 @@
 # CITPC Auto Login Tool (Python & Bash)
 
+>Want the Mobile App version
+>Email me at : <dareludum@gmail.com>
+
 A simple script to automatically log in to the CITPC / college network captive portal without opening a browser.
 
 This tool sends the same request your browser sends when you log in manually.
