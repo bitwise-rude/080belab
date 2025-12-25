@@ -26,8 +26,9 @@ ROUTINES = {
     "winter": {
         "sunday": {
             "theory": [
-                ("10:15–11:55", "Digital Signal Processing (SPP)"),
-                ("11:55–12:45", "Project Engineering & Management (NG)"),
+                ("10:15–11:45", "Digital Signal Processing (SPP)"),
+                ("11:45–13:15", "Project Engineering & Management (NG)"),
+                ("13:15–14:00", "Break"),
                 ("13:35–14:25", "Project Engineering & Management (NG)"),
                 ("14:25–15:15", "DSP Application (GGT)")
             ],
